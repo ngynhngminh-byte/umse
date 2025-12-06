@@ -141,5 +141,3 @@ Please submit Pull Requests to the `hyper-aware-v7` branch.
 Distributed under the **MIT-GPL-USME Hybrid Public License (MGUHPL)**. Basically, if you use it, you must acknowledge its complexity in the deepest parts of your soul.
 
 -----
-
-*Developed by the Universal Abstraction Collective (UAC) - Est. 2025.*<img width="1825" height="859" alt="image" src="https://github.com/user-attachments/assets/598f68ab-8676-4602-a99b-b6eeecb36796" />
